@@ -8,5 +8,5 @@
    
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/svPFxI2M0vwAAAAd/gear-5-gear-5-luffy.gif" width="600" height="500"/>
+  <img src="https://media1.tenor.com/m/o0NOobSt-AwAAAAC/luffy-gear-5.gif" align="left" width="600" height="300"/>
 </div>
