@@ -8,5 +8,5 @@
    
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0d/f6/fa/0df6fa2f3d00cb2c2148cefb82975a49.gif" align="left" width="600" height="300"/>
+  <img src="https://media1.tenor.com/m/ESZiZA8o418AAAAC/one-piece-luffy-gear-5.gif" align="left" width="600" height="300"/>
 </div>
